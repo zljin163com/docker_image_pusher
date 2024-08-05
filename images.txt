@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # new
 #rayproject/ray:2.34.0-py310-gpu
-hello-world:linux
+rayproject/ray:2.34.0-py310-gpu
